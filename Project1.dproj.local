@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/09 15:55:24.000.181,=C:\Users\Locian Layous\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/09 17:06:42.000.912,=C:\Users\Locian Layous\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/05/09 17:10:12.000.857,C:\Users\Locian Layous\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Locian Layous\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PLocianMAC iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
